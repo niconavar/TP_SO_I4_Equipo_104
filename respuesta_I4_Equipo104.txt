@@ -1,7 +1,8 @@
+Navarrete Nicolas, Valentin Ferrero, Suarez Brandon.
+
 A- ¿Qué color de fondo tiene su página en el TESTING ?
-brandon suarez: azul
-navarrete: rojo
-ferrero: amarillo
+todos: amarillo
+
 B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
 todos: amarillo
 
@@ -9,5 +10,22 @@ C- ¿Qué color de fondo tiene su página en el MASTER?
 todos: amarillo
 
 D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
-
 quedo el de alfa
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+si beta y gamma no pudieron realizar el push.
+
+F- ¿Qué problemas surgieron?
+rechazaba el push porque estaban atrasados en el commit.
+
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+trabajar en distintas ramas y realizar un merge luego, pero terminarian por haber conflicto igualmente.
+
+H- ¿Qué sucede si cada uno utiliza el push -f?
+reemplazamos el archivo existente por el propio.
+
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+que cada uno lo edite en orden y que el que sigue lo pullee, lo actualice y asi sucesivamente.
+
