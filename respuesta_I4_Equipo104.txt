@@ -1,0 +1,13 @@
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+brandon suarez: azul
+navarrete: rojo
+ferrero: amarillo
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+todos: amarillo
+
+C- ¿Qué color de fondo tiene su página en el MASTER?
+todos: amarillo
+
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+quedo el de alfa
